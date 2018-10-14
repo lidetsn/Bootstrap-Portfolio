@@ -1,0 +1,13 @@
+body{
+    background-image: url("assets/images/gravel.png");
+}
+.container, .container-fluid,.navbar{
+    
+    background: white;
+    
+
+}
+footer{
+    background-color: #666666;
+}
+
